@@ -1,6 +1,6 @@
 <?php
 
-echo "测试";
+echo "闫云飞测试代码";
 
 phpinfo();
 
